@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.rudraservicesbld.app",
+                 "sha256_cert_fingerprints": ["E7:35:1B:2C:0B:49:D8:53:13:9F:71:EF:FB:41:FD:05:08:5F:9D:12:E9:ED:E3:F0:61:7F:66:79:E6:2E:35:0A"] }
+  }]
